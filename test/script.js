@@ -2,7 +2,7 @@ var options =
 [
 	{
 		icon:'1',
-		label: 'Run alert function Run alert functionRun alert functionRun alert function',
+		label: 'Run alert function',
 		callback: function() {
 			alert('dasd');
 		}
