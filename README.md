@@ -1,10 +1,12 @@
 # Bubbler
 Bubbler is a pure JavaScript/CSS bubble menu inspired by material design. No libraries required.
 
+![demo](http://i.imgur.com/Bg232lt.gif)
+
 # How to
 To create a menu, you must create a new `Bubbler` instance and pass in your options.
 
-```javascript
+```JavaScript
 var options =
 [
 	{
